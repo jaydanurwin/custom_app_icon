@@ -1,17 +1,7 @@
-# custom_app_icon
+# Modern Login UI made with Flutter
 
-A new Flutter project.
+This repo is for a YouTube Tutorial I made on how to make a custom app launcher icon for a Flutter app. Check it out with the link below! 
 
-## Getting Started
+[YouTube: Flutter Tutorial - Modern Login UI](https://youtu.be/GDSjRR3dwbo)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# custom_app_icon
